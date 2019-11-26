@@ -1,0 +1,11 @@
+.selected{
+    background: rgb(223, 207, 207) !important;
+    border: 5px solid black !important;
+}
+
+.options{
+    padding: 8px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+
